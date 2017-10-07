@@ -20,6 +20,13 @@ phone number
 email id (Should be unique)
 password 
 
+## System Requirements
+php 5.6 and above
+mysql
+composer
+git
+Any web server(I have used Appache)
+
 ## Installation 
 
 After cloning the this Assignment,
@@ -28,6 +35,8 @@ After cloning the this Assignment,
 3. Create a mysql database named -> assignment  
 Note: you can change the database credentials in .env file (default: database:assignment, username:root and no password)
 
-4. Run php artisan migrate in assigment directory
+4. Run php artisan migrate in assigment directory  
+5. Run the project use the command: laravel artinsan serve  
+6. visit localhost:8000 in your browser
 
 
