@@ -25,8 +25,8 @@ password
 After cloning the this Assignment,
 1. Goto Assignemt Directory
 2. Install Composer Dependencies -> composer install
-3. Create a mysql database named -> assignment
-#Note: you can change the database credentials in .env file (default: database:assignment, username:root and no password)
+3. Create a mysql database named -> assignment  
+Note: you can change the database credentials in .env file (default: database:assignment, username:root and no password)
 
 4. Run php artisan migrate in assigment directory
 
