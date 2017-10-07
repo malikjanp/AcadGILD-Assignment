@@ -21,11 +21,11 @@ email id (Should be unique)
 password 
 
 ## System Requirements
-php 5.6 and above
-mysql
-composer
-git
-Any web server(I have used Appache)
+php 5.6 and above  
+mysql  
+composer  
+git  
+Any web server(I have used Appache)  
 
 ## Installation 
 
